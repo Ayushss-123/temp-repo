@@ -1,0 +1,505 @@
+.image2Icon {
+  position: absolute;
+  top: 55px;
+  left: 163.34px;
+  width: 116.65px;
+  height: 116.65px;
+  object-fit: cover;
+  opacity: 0.2;
+  mix-blend-mode: color;
+}
+.image1Icon {
+  top: 0;
+  left: 0;
+  width: 192px;
+  height: 192px;
+  object-fit: cover;
+}
+.b,
+.image1Icon,
+.iso {
+  position: absolute;
+}
+.iso {
+  top: 740px;
+  left: 373px;
+  width: 221.11px;
+  height: 214.11px;
+  display: none;
+}
+.b {
+  top: 330px;
+  left: 82px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-gayathri);
+  color: var(--color-darkturquoise-100);
+}
+.hideoKojima,
+.iAlwaysObserve {
+  position: absolute;
+  left: 82px;
+  line-height: 38px;
+}
+.iAlwaysObserve {
+  top: 351px;
+  display: flex;
+  align-items: center;
+  width: 473px;
+  height: 164px;
+}
+.hideoKojima {
+  top: 574px;
+}
+.signUpChild {
+  position: absolute;
+  top: 639px;
+  left: 484px;
+  width: 33.5px;
+  height: 33px;
+}
+.groupIcon,
+.vectorIcon {
+  position: absolute;
+  top: 212px;
+  left: 415.86px;
+  width: 60px;
+  height: 56px;
+}
+.vectorIcon {
+  top: 895.65px;
+  left: 0;
+  width: 120.18px;
+  height: 120.87px;
+}
+.back {
+  position: absolute;
+  top: 73px;
+  left: 748px;
+  font-size: var(--body-size);
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--color-lightslategray);
+}
+.iconnavigationarrowBackIos {
+  position: absolute;
+  top: 74px;
+  left: 719px;
+  width: 20px;
+  height: 20px;
+}
+.gamers {
+  position: absolute;
+  top: 15px;
+  left: 47px;
+}
+.gamersParent,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 52.22px;
+  height: 57px;
+}
+.gamersParent {
+  top: 61px;
+  left: 89px;
+  width: 106px;
+  font-size: var(--body-size);
+  font-family: var(--font-raanana);
+}
+.klmii3cr9iiIcon {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  width: 1440px;
+  height: 1920px;
+  object-fit: cover;
+}
+.frameChild,
+.free,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameChild {
+  background-color: var(--color-darkturquoise-300);
+  width: 642px;
+  height: 1519px;
+  opacity: 0.9;
+}
+.free,
+.groupItem {
+  width: 50px;
+  height: 50px;
+}
+.free {
+  top: 5px;
+  left: 95px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 71.03px;
+  height: 42px;
+}
+.groupParent,
+.mbmonth {
+  position: absolute;
+  top: 225px;
+  left: 107px;
+  width: 166.03px;
+  height: 50px;
+}
+.mbmonth {
+  top: 5px;
+  left: 95px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 169px;
+  height: 42px;
+}
+.groupContainer {
+  position: absolute;
+  top: 299px;
+  left: 107px;
+  width: 264px;
+  height: 50px;
+}
+.unlimitedSystems,
+.unlimitedUsers {
+  position: absolute;
+  top: 5px;
+  left: 95px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 221px;
+  height: 42px;
+}
+.unlimitedUsers {
+  width: 203px;
+}
+.groupDiv,
+.groupParent1 {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  width: 298px;
+  height: 50px;
+}
+.groupDiv {
+  top: 595px;
+  left: 107px;
+  width: 316px;
+  height: 122px;
+}
+.additional16gbFirst {
+  position: absolute;
+  top: 5px;
+  left: 95px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 335px;
+  height: 42px;
+}
+.groupParent2,
+.groupParent3,
+.groupParent4 {
+  position: absolute;
+  top: 373px;
+  left: 107px;
+  width: 430px;
+  height: 50px;
+}
+.groupParent3,
+.groupParent4 {
+  top: 447px;
+  width: 298px;
+}
+.groupParent4 {
+  top: 521px;
+}
+.klmii3cr9iiParent {
+  position: absolute;
+  top: 1px;
+  left: -22px;
+  background-color: var(--primary-contrast);
+  width: 642px;
+  height: 1519px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--heading-3-size);
+  font-family: var(--font-mulish);
+}
+.joinUsAnd,
+.register {
+  position: absolute;
+  left: 73px;
+}
+.joinUsAnd {
+  top: 101px;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 411px;
+}
+.register {
+  top: 39px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkturquoise-200);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-lightslategray);
+  box-sizing: border-box;
+  width: 426px;
+  height: 64px;
+}
+.name {
+  position: absolute;
+  top: 22px;
+  left: 30px;
+  font-weight: 600;
+  opacity: 0.6;
+}
+.groupChild8,
+.rectangleContainer,
+.rectangleGroup,
+.rectangleParent {
+  position: absolute;
+  top: 183px;
+  left: 69px;
+  width: 426px;
+  height: 64px;
+}
+.groupChild8,
+.rectangleContainer,
+.rectangleGroup {
+  top: 282px;
+}
+.groupChild8,
+.rectangleContainer {
+  top: 593px;
+}
+.groupChild8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-lightslategray);
+  box-sizing: border-box;
+  width: 205px;
+}
+.password {
+  position: absolute;
+  top: 22px;
+  left: 23px;
+  font-weight: 600;
+  opacity: 0.6;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 381px;
+  left: 69px;
+  width: 205px;
+  height: 64px;
+}
+.confirmPassword {
+  position: absolute;
+  top: 22px;
+  left: 42px;
+  font-weight: 600;
+  opacity: 0.6;
+}
+.groupChild10,
+.rectangleParent2 {
+  position: absolute;
+  top: 381px;
+  left: 290px;
+  width: 205px;
+  height: 64px;
+}
+.groupChild10 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-darkcyan);
+  width: 426px;
+}
+.registerAccount {
+  position: absolute;
+  top: 20px;
+  left: 144px;
+  font-weight: 600;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 852px;
+  left: 69px;
+  width: 426px;
+  height: 64px;
+  text-align: center;
+  font-size: var(--body-size);
+  color: var(--primary-contrast);
+}
+.iAgreeTo,
+.or {
+  position: absolute;
+}
+.or {
+  top: 693px;
+  left: 278px;
+  font-size: var(--font-size-2xs);
+  font-family: var(--font-inter);
+  color: var(--color-silver);
+  text-align: center;
+}
+.iAgreeTo {
+  top: 782px;
+  left: 172px;
+  font-size: var(--body-size);
+  color: var(--color-darkcyan);
+}
+.frameItem {
+  position: absolute;
+  top: 700.5px;
+  left: 326.5px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 173px;
+  height: 1px;
+}
+.groupChild11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--primary-contrast);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  width: 426px;
+  height: 64px;
+}
+.registerWithGoogle {
+  position: absolute;
+  top: 21px;
+  left: 147px;
+  font-weight: 600;
+}
+.flatColorIconsgoogle {
+  position: absolute;
+  top: 26px;
+  left: 49px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangleParent4 {
+  position: absolute;
+  top: 940px;
+  left: 69px;
+  width: 426px;
+  height: 64px;
+  text-align: center;
+  font-size: var(--body-size);
+  color: var(--color-darkturquoise-200);
+}
+.registerWithGithub {
+  position: absolute;
+  top: 22px;
+  left: 150px;
+  font-weight: 600;
+}
+.rectangleParent5 {
+  position: absolute;
+  top: 1028px;
+  left: 69px;
+  width: 426px;
+  height: 64px;
+  text-align: center;
+  font-size: var(--body-size);
+  color: var(--color-darkturquoise-200);
+  font-family: var(--font-mulish);
+}
+.ellipseIcon,
+.frameInner {
+  position: absolute;
+  top: 783px;
+  left: 85px;
+  width: 21px;
+  height: 21px;
+}
+.ellipseIcon {
+  top: 787px;
+  left: 89px;
+  width: 13px;
+  height: 13px;
+}
+.nigeria {
+  position: absolute;
+  top: 20px;
+  left: 28px;
+  font-weight: 600;
+}
+.chevronDownIcon {
+  position: absolute;
+  top: 17px;
+  left: 372px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangleParent6 {
+  position: absolute;
+  top: 494px;
+  left: 69px;
+  width: 426px;
+  height: 64px;
+}
+.gmt0000Utc {
+  position: absolute;
+  top: 23px;
+  left: 28px;
+  font-weight: 600;
+}
+.github1Icon,
+.rectangleParent7 {
+  position: absolute;
+  top: 692px;
+  left: 69px;
+  width: 426px;
+  height: 64px;
+}
+.github1Icon {
+  top: 1051px;
+  left: 121px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.joinUsAndStartLoggingYourParent {
+  position: absolute;
+  top: 152px;
+  left: 720px;
+  width: 598px;
+  height: 1262px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightslategray);
+  font-family: var(--font-open-sans);
+}
+.signUp {
+  position: relative;
+  background-color: var(--primary-contrast);
+  width: 100%;
+  height: 1500px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--primary-contrast);
+  font-family: var(--font-inter);
+}

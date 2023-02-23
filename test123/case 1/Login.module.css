@@ -1,0 +1,427 @@
+.image2Icon {
+  position: absolute;
+  top: 55px;
+  left: 163.34px;
+  width: 116.65px;
+  height: 116.65px;
+  object-fit: cover;
+  opacity: 0.2;
+  mix-blend-mode: color;
+}
+.image1Icon {
+  top: 0;
+  left: 0;
+  width: 192px;
+  height: 192px;
+  object-fit: cover;
+}
+.b,
+.image1Icon,
+.iso {
+  position: absolute;
+}
+.iso {
+  top: 740px;
+  left: 373px;
+  width: 221.11px;
+  height: 214.11px;
+  display: none;
+}
+.b {
+  top: 330px;
+  left: 82px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-gayathri);
+  color: var(--color-darkturquoise-100);
+}
+.hideoKojima,
+.iAlwaysObserve {
+  position: absolute;
+  left: 82px;
+  font-size: var(--font-size-2xl);
+  line-height: 38px;
+  font-family: var(--font-inter);
+}
+.iAlwaysObserve {
+  top: 351px;
+  display: flex;
+  align-items: center;
+  width: 473px;
+  height: 164px;
+}
+.hideoKojima {
+  top: 574px;
+}
+.loginChild {
+  position: absolute;
+  top: 639px;
+  left: 484px;
+  width: 33.5px;
+  height: 33px;
+}
+.groupIcon,
+.vectorIcon {
+  position: absolute;
+  top: 212px;
+  left: 415.86px;
+  width: 60px;
+  height: 56px;
+}
+.vectorIcon {
+  top: 895.65px;
+  left: 0;
+  width: 120.18px;
+  height: 120.87px;
+}
+.back {
+  position: absolute;
+  top: 73px;
+  left: 748px;
+  font-weight: 600;
+  color: var(--color-lightslategray);
+}
+.iconnavigationarrowBackIos {
+  position: absolute;
+  top: 74px;
+  left: 719px;
+  width: 20px;
+  height: 20px;
+}
+.gamers {
+  position: absolute;
+  top: 15px;
+  left: 47px;
+}
+.gamersParent,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 52.22px;
+  height: 57px;
+}
+.gamersParent {
+  top: 61px;
+  left: 89px;
+  width: 106px;
+  font-family: var(--font-raanana);
+}
+.klmii3cr9iiIcon {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  width: 1440px;
+  height: 1920px;
+  object-fit: cover;
+}
+.frameChild,
+.free,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameChild {
+  background-color: var(--color-darkturquoise-300);
+  width: 642px;
+  height: 1519px;
+  opacity: 0.9;
+}
+.free,
+.groupItem {
+  width: 50px;
+  height: 50px;
+}
+.free {
+  top: 8px;
+  left: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 71.03px;
+  height: 42px;
+}
+.groupParent,
+.mbmonth {
+  position: absolute;
+  top: 225px;
+  left: 107px;
+  width: 147.03px;
+  height: 50px;
+}
+.mbmonth {
+  top: 10px;
+  left: 82px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 169px;
+  height: 42px;
+}
+.groupContainer {
+  position: absolute;
+  top: 299px;
+  left: 107px;
+  width: 251px;
+  height: 52px;
+}
+.unlimitedSystems,
+.unlimitedUsers {
+  position: absolute;
+  top: 4px;
+  left: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 254px;
+  height: 42px;
+}
+.unlimitedUsers {
+  left: 80px;
+  width: 203px;
+}
+.groupDiv,
+.groupParent1 {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  width: 283px;
+  height: 50px;
+}
+.groupDiv {
+  top: 595px;
+  left: 107px;
+  width: 325px;
+  height: 122px;
+}
+.additional16gbFirst {
+  position: absolute;
+  top: 1px;
+  left: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 359px;
+  height: 42px;
+}
+.daysArchive,
+.groupParent2 {
+  position: absolute;
+  top: 373px;
+  left: 107px;
+  width: 435px;
+  height: 50px;
+}
+.daysArchive {
+  top: 8px;
+  left: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 203px;
+  height: 42px;
+}
+.groupParent3,
+.hoursSearch {
+  position: absolute;
+  top: 516px;
+  left: 107px;
+  width: 274px;
+  height: 50px;
+}
+.hoursSearch {
+  top: 3px;
+  left: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 203px;
+  height: 42px;
+}
+.groupParent4 {
+  position: absolute;
+  top: 445px;
+  left: 107px;
+  width: 283px;
+  height: 50px;
+}
+.klmii3cr9iiParent {
+  position: absolute;
+  top: 1px;
+  left: -22px;
+  background-color: var(--primary-contrast);
+  width: 642px;
+  height: 1519px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--heading-3-size);
+}
+.welcomeBackFriend {
+  position: absolute;
+  top: 101px;
+  left: 73px;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  width: 411px;
+}
+.login1 {
+  position: absolute;
+  top: 39px;
+  left: 73px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkturquoise-200);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  border: 1px solid var(--color-lightslategray);
+  box-sizing: border-box;
+  width: 426px;
+  height: 64px;
+}
+.eMail {
+  position: absolute;
+  top: 22px;
+  left: 30px;
+  font-weight: 600;
+  opacity: 0.6;
+}
+.rectangleParent {
+  position: absolute;
+  top: 188px;
+  left: 86px;
+  width: 426px;
+  height: 64px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-mulish);
+}
+.password {
+  position: absolute;
+  top: 23px;
+  left: 30px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 137.15px;
+  opacity: 0.6;
+}
+.groupChild7,
+.rectangleGroup {
+  position: absolute;
+  width: 426px;
+  height: 64px;
+}
+.rectangleGroup {
+  top: 304px;
+  left: 86px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-mulish);
+}
+.groupChild7 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-darkcyan);
+}
+.login2 {
+  position: absolute;
+  top: 20px;
+  left: 192px;
+  font-weight: 600;
+}
+.or,
+.rectangleContainer {
+  position: absolute;
+  text-align: center;
+}
+.rectangleContainer {
+  top: 461px;
+  left: 86px;
+  width: 426px;
+  height: 64px;
+  color: var(--primary-contrast);
+}
+.or {
+  top: 693px;
+  left: 278px;
+  font-size: var(--font-size-2xs);
+  font-family: var(--font-inter);
+  color: var(--color-silver);
+}
+.createAnAccount,
+.forgotPassword {
+  position: absolute;
+  top: 381px;
+  left: 348px;
+  color: var(--color-darkcyan);
+}
+.createAnAccount {
+  top: 691px;
+  left: 227px;
+}
+.frameItem {
+  position: absolute;
+  top: 700.5px;
+  left: 326.5px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 173px;
+  height: 1px;
+}
+.groupChild8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--primary-contrast);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  width: 426px;
+  height: 64px;
+}
+.loginWithGithub {
+  position: absolute;
+  top: 21px;
+  left: 159px;
+  font-weight: 600;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 581px;
+  left: 86px;
+  width: 426px;
+  height: 64px;
+  text-align: center;
+  color: var(--color-darkturquoise-200);
+}
+.github1Icon {
+  position: absolute;
+  top: 603px;
+  left: 117px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.welcomeBackFriendParent {
+  position: absolute;
+  top: 152px;
+  left: 720px;
+  width: 598px;
+  height: 1262px;
+  overflow: hidden;
+  color: var(--color-lightslategray);
+}
+.login {
+  position: relative;
+  background-color: var(--primary-contrast);
+  width: 100%;
+  height: 1500px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-size);
+  color: var(--primary-contrast);
+  font-family: var(--font-open-sans);
+}
